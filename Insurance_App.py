@@ -3,7 +3,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as pltstre
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 lr1 = pickle.load(open('/home/misfit/Downloads/Python course/Projects/lr1.pkl','rb'))
